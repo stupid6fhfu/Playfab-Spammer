@@ -5,9 +5,7 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  // Uncomment these if deploying to username.github.io/repo-name
-  // basePath: '/playfab-spammer',
-  // assetPrefix: '/playfab-spammer/',
+  // sprinkles is cute
 }
 
 module.exports = nextConfig
